@@ -1,0 +1,7 @@
+/bin/
+/obj/
+/PSTools/
+/.vagrant/
+*.zip
+*.cer
+*.pfx
