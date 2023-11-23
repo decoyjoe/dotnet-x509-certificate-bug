@@ -1,0 +1,4 @@
+[NewRequest]
+Subject = "CN=dotnet-x509-certificate-bug"
+RequestType = Cert
+Exportable = true

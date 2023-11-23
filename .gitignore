@@ -1,0 +1,6 @@
+/bin/
+/obj/
+/PSTools/
+*.zip
+*.cer
+*.pfx
